@@ -58,6 +58,7 @@
 ### [Dagger](https://github.com/google/dagger)
 
 ### [Duktape](https://github.com/square/duktape-android)
+- Coinone Transfer
 
 ### [ExoPlayer](https://github.com/google/ExoPlayer)
 
