@@ -6,7 +6,8 @@
 ## 목록
 |회사명/팀명|언어|아키텍쳐|회사 관련 링크|
 |:-:|:-:|:-:|:-:|
-|[PRND Company](https://prnd.co.kr/)|Kotlin, Java|Clean, MVVM, MVP|[채용 및 업무환경](https://prnd.co.kr/hiring) / [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)|
+|[PRND Company](https://prnd.co.kr/)|Kotlin, Java|Clean, MVVM, MVP|[채용 및 업무환경](https://prnd.co.kr/hiring) / [헤이딜러에서는 어떻게 일하나요?](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC%EC%97%90%EC%84%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%82%98%EC%9A%94-1fa02b4361b5)|[뱅크샐러드](https://banksalad.com/)|Kotlin|Clean, MVP, MVVM, RxJava, Koin||
+
 
 
 ## 라이브러리
