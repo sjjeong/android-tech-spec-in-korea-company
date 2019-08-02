@@ -16,6 +16,7 @@
 - PRND Company
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
+- PRND Company
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -61,6 +62,7 @@
 ### [Moshi](https://github.com/square/moshi)
 
 ### [OkHttp](https://github.com/square/okhttp)
+- PRND Company
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
