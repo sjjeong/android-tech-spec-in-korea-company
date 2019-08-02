@@ -69,6 +69,7 @@
 - 뱅크샐러드
 
 ### [Lottie](https://github.com/airbnb/lottie-android)
+- SweetTracker
 
 ### [Moshi](https://github.com/square/moshi)
 
