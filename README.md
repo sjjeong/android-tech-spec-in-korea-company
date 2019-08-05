@@ -11,6 +11,7 @@
 |[무신사](https://store.musinsa.com/)|Kotlin|MVVM|[무신사의 앱(Android / iOS) 개발자는 이런 개발을 합니다.](https://github.com/musinsa/about/blob/master/app.md)|
 |[캐시워크](https://www.cashwalk.co/)|Kotlin, Java|MVP, MVVM||
 [Coinone Transfer](https://crossenf.com/)|Kotlin, Java|MVVM||
+[원티드랩](https://www.wanted.co.kr/)|Kotlin|MVVM||
 
 
 
@@ -25,11 +26,13 @@
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - PRND Company
+- 원티드랩
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
 - 캐시워크
 - Coinone Transfer
+- 원티드랩
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 
@@ -37,11 +40,13 @@
 
 ### [AAC Room](https://developer.android.com/topic/libraries/architecture/room)
 - 캐시워크
+- 원티드랩
 
 ### [AAC ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - PRND Company
 - 캐시워크
 - Coinone Transfer
+- 원티드랩
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -69,12 +74,14 @@
 - MUSINSA
 - 캐시워크
 - Coinone Transfer
+- 원티드랩
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
 - MUSINSA
 - 캐시워크
 - Coinone Transfer
+- 원티드랩
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 
@@ -82,6 +89,7 @@
 - PRND Company
 - 뱅크샐러드
 - Coinone Transfer
+- 원티드랩
 
 ### [Lottie](https://github.com/airbnb/lottie-android)
 - 캐시워크
@@ -94,6 +102,7 @@
 - MUSINSA
 - 캐시워크
 - Coinone Transfer
+- 원티드랩
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -107,16 +116,19 @@
 - MUSINSA
 - 캐시워크
 - Coinone Transfer
+- 원티드랩
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
 - Coinone Transfer
+- 원티드랩
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
 - 뱅크샐러드
 - 캐시워크
 - Coinone Transfer
+- 원티드랩
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 
@@ -134,5 +146,6 @@
 - PRND Company
 
 ### [Timber](https://github.com/JakeWharton/timber)
+- 원티드랩
 
 ### [Volley](https://github.com/google/volley)
