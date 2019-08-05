@@ -12,6 +12,7 @@
 |[캐시워크](https://www.cashwalk.co/)|Kotlin, Java|MVP, MVVM||
 [Coinone Transfer](https://crossenf.com/)|Kotlin, Java|MVVM||
 [원티드랩](https://www.wanted.co.kr/)|Kotlin|MVVM||
+|[플리토](https://www.flitto.com/home)|Kotlin, Java|MVP, MVVM|[플리토 채용](https://flitto.recruiter.co.kr/appsite/company/index)|
 
 
 
@@ -23,20 +24,25 @@
 - PRND Company
 - MUSINSA
 - Coinone Transfer
+- 플리토
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - PRND Company
 - 원티드랩
+- 플리토
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
 - 캐시워크
 - Coinone Transfer
 - 원티드랩
+- 플리토
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
+- 플리토
 
 ### [AAC Paging](https://developer.android.com/topic/libraries/architecture/paging/)
+- 플리토
 
 ### [AAC Room](https://developer.android.com/topic/libraries/architecture/room)
 - 캐시워크
@@ -47,6 +53,7 @@
 - 캐시워크
 - Coinone Transfer
 - 원티드랩
+- 플리토
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -59,6 +66,9 @@
 
 ### [Calligraphy](https://github.com/chrisjenx/Calligraphy)
 - PRND Company
+
+### [Coroutine](https://kotlinlang.org/docs/reference/android-overview.html)
+- 플리토
 
 ### [Dagger](https://github.com/google/dagger)
 
@@ -75,6 +85,7 @@
 - 캐시워크
 - Coinone Transfer
 - 원티드랩
+- 플리토
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -82,8 +93,10 @@
 - 캐시워크
 - Coinone Transfer
 - 원티드랩
+- 플리토
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
+- 플리토
 
 ### [Koin](https://github.com/InsertKoinIO/koin)
 - PRND Company
@@ -103,6 +116,7 @@
 - 캐시워크
 - Coinone Transfer
 - 원티드랩
+- 플리토
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -110,6 +124,7 @@
 ### [Picasso](https://github.com/square/picasso)
 
 ### [Realm](https://github.com/realm/realm-java)
+- 플리토
 
 ### [Retrofit](https://github.com/square/retrofit)
 - PRND Company
@@ -117,6 +132,7 @@
 - 캐시워크
 - Coinone Transfer
 - 원티드랩
+- 플리토
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
@@ -129,6 +145,7 @@
 - 캐시워크
 - Coinone Transfer
 - 원티드랩
+- 플리토
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 
@@ -147,5 +164,6 @@
 
 ### [Timber](https://github.com/JakeWharton/timber)
 - 원티드랩
+- 플리토
 
 ### [Volley](https://github.com/google/volley)
