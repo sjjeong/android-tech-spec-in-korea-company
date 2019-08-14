@@ -15,6 +15,7 @@
 |[플리토](https://www.flitto.com/home)|Kotlin, Java|MVP, MVVM|[플리토 채용](https://flitto.recruiter.co.kr/appsite/company/index)|
 |[스윗트래커](http://www.sweettracker.co.kr/)|Kotlin, Java|MVP, MVVM||
 |[스푼라디오](https://www.spooncast.net/)|Kotlin,  Java|Clean, MVP|[채용 및 업무환경](http://company.spooncast.net/)|
+|[빙글](https://www.vingle.net/)|Kotlin,  Java|MVP, MVVM|[Vingle Careers](https://careers.vingle.net/)|
 
 
 ## 라이브러리
@@ -31,6 +32,7 @@
 - PRND Company
 - 원티드랩
 - 플리토
+- 빙글
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -44,10 +46,12 @@
 
 ### [AAC Paging](https://developer.android.com/topic/libraries/architecture/paging/)
 - 플리토
+- 빙글
 
 ### [AAC Room](https://developer.android.com/topic/libraries/architecture/room)
 - 캐시워크
 - 원티드랩
+- 빙글
 
 ### [AAC ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - PRND Company
@@ -55,6 +59,7 @@
 - Coinone Transfer
 - 원티드랩
 - 플리토
+- 빙글
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -81,6 +86,7 @@
 
 ### [ExoPlayer](https://github.com/google/ExoPlayer)
 - 스푼라디오
+- 빙글
 
 ### [Fresco](https://github.com/facebook/fresco)
 
@@ -93,6 +99,7 @@
 - 플리토
 - SweetTracker
 - 스푼라디오
+- 빙글
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -103,6 +110,7 @@
 - 플리토
 - SweetTracker
 - 스푼라디오
+- 빙글
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -118,6 +126,7 @@
 - Coinone Transfer
 - SweetTracker
 - 스푼라디오
+- 빙글
 
 ### [Moshi](https://github.com/square/moshi)
 
@@ -130,6 +139,7 @@
 - 플리토
 - SweetTracker
 - 스푼라디오
+- 빙글
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -144,6 +154,7 @@
 - MUSINSA
 - SweetTracker
 - 스푼라디오
+- 빙글
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
@@ -152,11 +163,7 @@
 - 원티드랩
 - 플리토
 - SweetTracker
-
-### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-- PRND Company
-- Coinone Transfer
-- 원티드랩
+- 빙글
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
@@ -167,12 +174,15 @@
 - 플리토
 - SweetTracker
 - 스푼라디오
+- 빙글
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
+- 빙글
 
 ### [RxLifecycle](https://github.com/trello/RxLifecycle)
 - PRND Company
+- 빙글
 
 ### [TedKeyboardObserver](https://github.com/ParkSangGwon/TedKeyboardObserver)
 - PRND Company
