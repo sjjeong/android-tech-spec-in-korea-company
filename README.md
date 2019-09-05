@@ -17,7 +17,7 @@
 |[스푼라디오](https://www.spooncast.net/)|Kotlin,  Java|Clean, MVP|[채용 및 업무환경](http://company.spooncast.net/)|
 |[빙글](https://www.vingle.net/)|Kotlin,  Java|MVP, MVVM|[Vingle Careers](https://careers.vingle.net/)|
 |[아파트너](https://aptner.com/)|Kotlin, Java|MVP, MVVM|
-|[위드이노베이션](https://www.withinnovation.co.kr/)|Kotlin|Clean, MVP, MVVM||
+|[위드이노베이션](https://www.withinnovation.co.kr/)|Kotlin, Java|Clean, MVP, MVVM|[채용](https://www.wanted.co.kr/wd/25652?referer_id=192551)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
