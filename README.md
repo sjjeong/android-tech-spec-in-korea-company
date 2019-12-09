@@ -20,6 +20,7 @@
 |[아파트너](https://aptner.com/)|Kotlin, Java|MVP, MVVM|
 |[위드이노베이션](https://www.withinnovation.co.kr/)|Kotlin, Java|Clean, MVP, MVVM|[채용](https://www.wanted.co.kr/wd/25652?referer_id=192551)|
 |[Station3 다방](https://www.dabangapp.com)|Kotlin, Java|MVP, MVVM|
+|[Medibloc](https://medibloc.org/)|Kotlin|Clean, MVVM|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -33,6 +34,7 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- Medibloc
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - PRND Company
@@ -42,6 +44,8 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- Medibloc
+
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -55,11 +59,15 @@
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
+- Medibloc
+
 
 ### [AAC Paging](https://developer.android.com/topic/libraries/architecture/paging/)
 - 플리토
 - 빙글
 - 아파트너
+- Medibloc
+
 
 ### [AAC Room](https://developer.android.com/topic/libraries/architecture/room)
 - 캐시워크
@@ -67,6 +75,8 @@
 - 빙글
 - 아파트너
 - 위드이노베이션
+- Medibloc
+
 
 ### [AAC ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - PRND Company
@@ -78,6 +88,8 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- Medibloc
+
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -98,6 +110,8 @@
 ### [Coroutine](https://kotlinlang.org/docs/reference/android-overview.html)
 - 플리토
 - Station3 다방
+- Medibloc
+
 
 ### [Dagger](https://github.com/google/dagger)
 - 스푼라디오
@@ -109,6 +123,9 @@
 - 스푼라디오
 - 빙글
 - 위드이노베이션
+
+### [Epoxy](https://github.com/airbnb/epoxy)
+- Medibloc
 
 ### [Fresco](https://github.com/facebook/fresco)
 
@@ -125,6 +142,8 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- Medibloc
+
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -139,6 +158,7 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- Medibloc
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -150,6 +170,8 @@
 - 원티드랩
 - 아파트너
 - Station3 다방
+- Medibloc
+
 
 ### [Lottie](https://github.com/airbnb/lottie-android)
 - 캐시워크
@@ -159,8 +181,13 @@
 - 빙글
 - 아파트너
 - 위드이노베이션
+- Medibloc
+
 
 ### [Moshi](https://github.com/square/moshi)
+
+### [MvRx](https://github.com/airbnb/MvRx)
+- Medibloc
 
 ### [OkHttp](https://github.com/square/okhttp)
 - PRND Company
@@ -175,6 +202,8 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- Medibloc
+
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -195,6 +224,8 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- Medibloc
+
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
@@ -207,6 +238,8 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- Medibloc
+
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
@@ -221,10 +254,14 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- Medibloc
+
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
 - 빙글
+- Medibloc
+
 
 ### [RxLifecycle](https://github.com/trello/RxLifecycle)
 - PRND Company
@@ -246,6 +283,11 @@
 ### [Timber](https://github.com/JakeWharton/timber)
 - 원티드랩
 - 플리토
+- Medibloc
+
 
 ### [Volley](https://github.com/google/volley)
 - 위드이노베이션
+
+
+
