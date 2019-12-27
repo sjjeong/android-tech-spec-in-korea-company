@@ -67,7 +67,7 @@
 - 빙글
 - 아파트너
 - Medibloc
-
+- Coinone Transfer
 
 ### [AAC Room](https://developer.android.com/topic/libraries/architecture/room)
 - 캐시워크
@@ -96,7 +96,6 @@
 - SweetTracker
 
 ### [Anko](https://github.com/Kotlin/anko)
-- Coinone Transfer
 - 스푼라디오
 
 ### [ButterKnife](https://github.com/JakeWharton/butterknife)
@@ -115,6 +114,7 @@
 
 ### [Dagger](https://github.com/google/dagger)
 - 스푼라디오
+- Coinone Transfer
 
 ### [Duktape](https://github.com/square/duktape-android)
 - Coinone Transfer
@@ -225,6 +225,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- Coinone Transfer
 
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
