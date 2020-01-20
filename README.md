@@ -22,6 +22,7 @@
 |[위드이노베이션](https://www.withinnovation.co.kr/)|Kotlin, Java|Clean, MVP, MVVM|[채용](https://www.wanted.co.kr/wd/25652?referer_id=192551)|
 |[Station3 다방](https://www.dabangapp.com)|Kotlin, Java|MVP, MVVM|
 |[Medibloc](https://medibloc.org/)|Kotlin|Clean, MVVM|
+|[잡플래닛](https://www.jobplanet.co.kr/)|Kotlin, Java|MVP, MVVM|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -36,6 +37,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 잡플래닛
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - PRND Company
@@ -46,7 +48,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
-
+- 잡플래닛
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -57,6 +59,7 @@
 - 아파트너
 - 위드이노베이션
 - Station3 다방
+- 잡플래닛
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
@@ -90,6 +93,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 잡플래닛
 
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
@@ -103,6 +107,7 @@
 - 캐시워크
 - 위드이노베이션
 - Station3 다방
+- 잡플래닛
 
 ### [Calligraphy](https://github.com/chrisjenx/Calligraphy)
 - PRND Company
@@ -144,6 +149,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 잡플래닛
 
 
 ### [Gson](https://github.com/google/gson)
@@ -160,6 +166,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 잡플래닛
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -204,6 +211,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 잡플래닛
 
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
@@ -227,6 +235,7 @@
 - Station3 다방
 - Medibloc
 - Coinone Transfer
+- 잡플래닛
 
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
@@ -241,6 +250,7 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 잡플래닛
 
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
@@ -257,12 +267,14 @@
 - 위드이노베이션
 - Station3 다방
 - Medibloc
+- 잡플래닛
 
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
 - 빙글
 - Medibloc
+- 잡플래닛
 
 
 ### [RxLifecycle](https://github.com/trello/RxLifecycle)
