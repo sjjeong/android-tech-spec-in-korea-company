@@ -229,7 +229,6 @@
 
 ### [Realm](https://github.com/realm/realm-java)
 - 플리토
-- 띵스플로우
 
 ### [Retrofit](https://github.com/square/retrofit)
 - PRND Company
