@@ -24,7 +24,7 @@
 |[Medibloc](https://medibloc.org/)|Kotlin|Clean, MVVM|
 |[잡플래닛](https://www.jobplanet.co.kr/)|Kotlin, Java|MVP, MVVM|
 |[띵스플로우](https://thingsflow.com/ko/home)|Kotlin, Java|MVVM|[헬로우봇 앱](https://play.google.com/store/apps/details?id=com.thingsflow.hellobot)|
-|[에스티유니타스](http://www.stunitas.com/)|Kotlin|MVVM|[채용](https://www.wanted.co.kr/wd/35356)|
+|[에스티유니타스](http://www.stunitas.com/)|Kotlin|MVVM||
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
