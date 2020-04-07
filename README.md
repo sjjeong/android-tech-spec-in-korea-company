@@ -25,6 +25,7 @@
 |[잡플래닛](https://www.jobplanet.co.kr/)|Kotlin, Java|MVP, MVVM|
 |[띵스플로우](https://thingsflow.com/ko/home)|Kotlin, Java|MVVM|[헬로우봇 앱](https://play.google.com/store/apps/details?id=com.thingsflow.hellobot)|
 |[에스티유니타스](http://www.stunitas.com/)|Kotlin|MVVM||
+|[SNOW Social studio](https://zepeto.me/)|Kotlin|Clean, MVVM||
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -54,6 +55,7 @@
 - Medibloc
 - 잡플래닛
 - 에스티유니타스
+- SNOW Social studio
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -66,6 +68,7 @@
 - Station3 다방
 - 잡플래닛
 - 에스티유니타스
+- SNOW Social studio
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
@@ -104,6 +107,7 @@
 - Medibloc
 - 잡플래닛
 - 에스티유니타스
+- SNOW Social studio
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -140,6 +144,7 @@
 - 빙글
 - 위드이노베이션
 - 에스티유니타스
+- SNOW Social studio
 
 ### [Epoxy](https://github.com/airbnb/epoxy)
 - Medibloc
@@ -163,6 +168,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
+- SNOW Social studio
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -180,6 +186,7 @@
 - Medibloc
 - 잡플래닛
 - 에스티유니타스
+- SNOW Social studio
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -204,6 +211,7 @@
 - 위드이노베이션
 - Medibloc
 - 에스티유니타스
+- SNOW Social studio
 
 ### [Moshi](https://github.com/square/moshi)
 - 띵스플로우
@@ -229,6 +237,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
+- SNOW Social studio
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -254,6 +263,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
+- SNOW Social studio
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
@@ -270,6 +280,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
+- SNOW Social studio
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
@@ -288,6 +299,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
+- SNOW Social studio
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
