@@ -26,6 +26,7 @@
 |[띵스플로우](https://thingsflow.com/ko/home)|Kotlin, Java|MVVM|[헬로우봇 앱](https://play.google.com/store/apps/details?id=com.thingsflow.hellobot)|
 |[에스티유니타스](http://www.stunitas.com/)|Kotlin|MVVM||
 |[SNOW Social studio](https://zepeto.me/)|Kotlin|Clean, MVVM||
+[[중고나라](http://www.jobkorea.co.kr/Company/16151545/Info)|Kotlin, Java|MVC||
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -169,6 +170,7 @@
 - 띵스플로우
 - 에스티유니타스
 - SNOW Social studio
+- 중고나라
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -187,6 +189,7 @@
 - 잡플래닛
 - 에스티유니타스
 - SNOW Social studio
+- 중고나라
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -238,6 +241,7 @@
 - 띵스플로우
 - 에스티유니타스
 - SNOW Social studio
+- 중고나라
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -264,6 +268,7 @@
 - 띵스플로우
 - 에스티유니타스
 - SNOW Social studio
+- 중고나라
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
