@@ -25,7 +25,7 @@
 |[잡플래닛](https://www.jobplanet.co.kr/)|Kotlin, Java|MVP, MVVM|
 |[띵스플로우](https://thingsflow.com/ko/home)|Kotlin, Java|MVVM|[헬로우봇 앱](https://play.google.com/store/apps/details?id=com.thingsflow.hellobot)|
 |[에스티유니타스](http://www.stunitas.com/)|Kotlin|MVVM||
-|[SNOW Social studio](https://zepeto.me/)|Kotlin|Clean, MVVM||
+|[Naver Z](https://zepeto.me/)|Kotlin|Clean, MVVM||
 |[중고나라](http://joonggonara.co/)|Kotlin,Java|MVP|[중고나라 채용](http://www.jobkorea.co.kr/Company/16151545/Info)|
 
 ## 라이브러리
@@ -56,7 +56,7 @@
 - Medibloc
 - 잡플래닛
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -69,7 +69,7 @@
 - Station3 다방
 - 잡플래닛
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
@@ -108,7 +108,7 @@
 - Medibloc
 - 잡플래닛
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -145,7 +145,7 @@
 - 빙글
 - 위드이노베이션
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 
 ### [Epoxy](https://github.com/airbnb/epoxy)
 - Medibloc
@@ -169,7 +169,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 - 중고나라
 
 ### [Gson](https://github.com/google/gson)
@@ -188,7 +188,7 @@
 - Medibloc
 - 잡플래닛
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 - 중고나라
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
@@ -214,7 +214,7 @@
 - 위드이노베이션
 - Medibloc
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 
 ### [Moshi](https://github.com/square/moshi)
 - 띵스플로우
@@ -240,7 +240,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 - 중고나라
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
@@ -267,7 +267,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 - 중고나라
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
@@ -285,7 +285,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
@@ -304,7 +304,7 @@
 - 잡플래닛
 - 띵스플로우
 - 에스티유니타스
-- SNOW Social studio
+- Naver Z
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
