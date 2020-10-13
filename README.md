@@ -28,6 +28,7 @@
 |[Naver Z](https://zepeto.me/)|Kotlin|Clean, MVVM||
 |[중고나라](http://joonggonara.co/)|Kotlin,Java|MVP|[중고나라 채용](http://www.jobkorea.co.kr/Company/16151545/Info)|
 |[웰트](https://www.weltcorp.com)|Kotlin|MVP|[웰트 채용](https://www.wanted.co.kr/company/1258)|
+|[오일나우](https://www.oilnow.co.kr)|Kotlin|MVC|[오일나우 채용](https://www.notion.so/oilnow/Android-Kotlin-0b5e08d1c12e469097d04ff157f1df9b)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -176,6 +177,7 @@
 - 에스티유니타스
 - Naver Z
 - 중고나라
+- 오일나우
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -258,6 +260,7 @@
 
 ### [Realm](https://github.com/realm/realm-java)
 - 플리토
+- 오일나우
 
 ### [Retrofit](https://github.com/square/retrofit)
 - PRND Company
