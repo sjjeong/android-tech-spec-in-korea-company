@@ -29,6 +29,7 @@
 |[중고나라](http://joonggonara.co/)|Kotlin,Java|MVP|[중고나라 채용](http://www.jobkorea.co.kr/Company/16151545/Info)|
 |[웰트](https://www.weltcorp.com)|Kotlin|MVP|[웰트 채용](https://www.wanted.co.kr/company/1258)|
 |[오일나우](https://www.oilnow.co.kr)|Kotlin|MVC|[오일나우 채용](https://www.notion.so/oilnow/Android-Kotlin-0b5e08d1c12e469097d04ff157f1df9b)|
+|[에이블리](https://www.oilnow.co.kr)|Kotlin|MVVM|[에이블리 채용](https://www.notion.so/ably2/9d7e5686e05548c99393310e6769847a)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -47,6 +48,7 @@
 - 띵스플로우
 - 에스티유니타스
 - 웰트
+- 에이블리
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - PRND Company
@@ -61,6 +63,7 @@
 - 에스티유니타스
 - Naver Z
 - 웰트
+- 에이블리
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -74,6 +77,7 @@
 - 잡플래닛
 - 에스티유니타스
 - Naver Z
+- 에이블리
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
@@ -113,6 +117,7 @@
 - 잡플래닛
 - 에스티유니타스
 - Naver Z
+- 에이블리
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -141,6 +146,7 @@
 - 스푼라디오
 - Coinone Transfer
 - 에스티유니타스
+- 에이블리
 
 ### [Duktape](https://github.com/square/duktape-android)
 - Coinone Transfer
@@ -157,6 +163,7 @@
 - Medibloc
 
 ### [Fresco](https://github.com/facebook/fresco)
+- 에이블리
 
 ### [Glide](https://github.com/bumptech/glide)
 - PRND Company
@@ -178,6 +185,7 @@
 - Naver Z
 - 중고나라
 - 오일나우
+- 에이블리
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -197,6 +205,7 @@
 - 에스티유니타스
 - Naver Z
 - 중고나라
+- 에이블리
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -250,6 +259,7 @@
 - 에스티유니타스
 - Naver Z
 - 중고나라
+- 에이블리
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -261,6 +271,7 @@
 ### [Realm](https://github.com/realm/realm-java)
 - 플리토
 - 오일나우
+- 에이블리
 
 ### [Retrofit](https://github.com/square/retrofit)
 - PRND Company
@@ -278,6 +289,7 @@
 - 에스티유니타스
 - Naver Z
 - 중고나라
+- 에이블리
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
@@ -296,6 +308,7 @@
 - 에스티유니타스
 - Naver Z
 - 웰트
+- 에이블리
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
@@ -315,6 +328,7 @@
 - 띵스플로우
 - 에스티유니타스
 - Naver Z
+- 에이블리
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
