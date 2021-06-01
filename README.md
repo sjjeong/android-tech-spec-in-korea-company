@@ -30,6 +30,7 @@
 |[웰트](https://www.weltcorp.com)|Kotlin|MVP|[웰트 채용](https://www.wanted.co.kr/company/1258)|
 |[오일나우](https://www.oilnow.co.kr)|Kotlin|MVC|[오일나우 채용](https://www.notion.so/oilnow/Android-Kotlin-0b5e08d1c12e469097d04ff157f1df9b)|
 |[에이블리](https://www.oilnow.co.kr)|Kotlin|MVVM|[에이블리 채용](https://www.notion.so/ably2/9d7e5686e05548c99393310e6769847a)|
+|[딜리셔스](https://www.dealicious.kr/)|Kotlin|MVC,MVVM|[딜리셔스 채용](https://www.wanted.co.kr/wd/18908)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -49,6 +50,7 @@
 - 에스티유니타스
 - 웰트
 - 에이블리
+- 딜리셔스
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - PRND Company
@@ -64,6 +66,7 @@
 - Naver Z
 - 웰트
 - 에이블리
+- 딜리셔스
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -78,6 +81,7 @@
 - 에스티유니타스
 - Naver Z
 - 에이블리
+- 딜리셔스
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
@@ -118,6 +122,7 @@
 - 에스티유니타스
 - Naver Z
 - 에이블리
+- 딜리셔스
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -141,6 +146,7 @@
 - Station3 다방
 - Medibloc
 - 웰트
+- 딜리셔스
 
 ### [Dagger](https://github.com/google/dagger)
 - 스푼라디오
@@ -186,6 +192,7 @@
 - 중고나라
 - 오일나우
 - 에이블리
+- 딜리셔스
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -206,6 +213,7 @@
 - Naver Z
 - 중고나라
 - 에이블리
+- 딜리셔스
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -232,6 +240,7 @@
 - 에스티유니타스
 - Naver Z
 - 웰트
+- 딜리셔스
 
 ### [Moshi](https://github.com/square/moshi)
 - 띵스플로우
@@ -260,6 +269,7 @@
 - Naver Z
 - 중고나라
 - 에이블리
+- 딜리셔스
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -290,6 +300,7 @@
 - Naver Z
 - 중고나라
 - 에이블리
+- 딜리셔스
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
@@ -309,6 +320,7 @@
 - Naver Z
 - 웰트
 - 에이블리
+- 딜리셔스
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
@@ -338,6 +350,7 @@
 - 띵스플로우
 - 에스티유니타스
 - 웰트
+- 딜리셔스
 
 ### [RxLifecycle](https://github.com/trello/RxLifecycle)
 - PRND Company
@@ -354,6 +367,7 @@
 - Station3 다방
 - 띵스플로우
 - 웰트
+- 딜리셔스
 
 ### [TedRxOnActivityResult](https://github.com/ParkSangGwon/TedRxOnActivityResult)
 - PRND Company
