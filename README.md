@@ -31,6 +31,7 @@
 |[오일나우](https://www.oilnow.co.kr)|Kotlin|MVC|[오일나우 채용](https://www.notion.so/oilnow/Android-Kotlin-0b5e08d1c12e469097d04ff157f1df9b)|
 |[에이블리](https://www.oilnow.co.kr)|Kotlin|MVVM|[에이블리 채용](https://www.notion.so/ably2/9d7e5686e05548c99393310e6769847a)|
 |[딜리셔스](https://www.dealicious.kr/)|Kotlin|MVC,MVVM|[딜리셔스 채용](https://www.wanted.co.kr/wd/18908)|
+|[위버스컴퍼니](https://weverse.co/)|Kotlin|Clean, MVP, MVVM|[위버스컴퍼니 채용](https://www.wanted.co.kr/wd/16934)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -51,6 +52,7 @@
 - 웰트
 - 에이블리
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - PRND Company
@@ -67,6 +69,7 @@
 - 웰트
 - 에이블리
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -82,10 +85,12 @@
 - Naver Z
 - 에이블리
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
 - Medibloc
+- 위버스컴퍼니
 
 
 ### [AAC Paging](https://developer.android.com/topic/libraries/architecture/paging/)
@@ -106,6 +111,7 @@
 - 띵스플로우
 - 에스티유니타스
 - 웰트
+- 위버스컴퍼니
 
 ### [AAC ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - PRND Company
@@ -123,11 +129,13 @@
 - Naver Z
 - 에이블리
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
 - SweetTracker
 - 에스티유니타스
+- 위버스컴퍼니
 
 ### [Anko](https://github.com/Kotlin/anko)
 - 스푼라디오
@@ -147,6 +155,7 @@
 - Medibloc
 - 웰트
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [Dagger](https://github.com/google/dagger)
 - 스푼라디오
@@ -164,6 +173,7 @@
 - 에스티유니타스
 - Naver Z
 - 웰트
+- 위버스컴퍼니
 
 ### [Epoxy](https://github.com/airbnb/epoxy)
 - Medibloc
@@ -193,6 +203,7 @@
 - 오일나우
 - 에이블리
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -214,6 +225,7 @@
 - 중고나라
 - 에이블리
 - 딜리셔스
+- 위버스컴퍼
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -241,10 +253,12 @@
 - Naver Z
 - 웰트
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [Moshi](https://github.com/square/moshi)
 - 띵스플로우
 - 에스티유니타스
+- 위버스컴퍼니
 
 ### [MvRx](https://github.com/airbnb/MvRx)
 - Medibloc
@@ -270,6 +284,7 @@
 - 중고나라
 - 에이블리
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -301,6 +316,7 @@
 - 중고나라
 - 에이블리
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
@@ -321,6 +337,7 @@
 - 웰트
 - 에이블리
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
@@ -341,6 +358,7 @@
 - 에스티유니타스
 - Naver Z
 - 에이블리
+- 위버스컴퍼니
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
@@ -351,6 +369,7 @@
 - 에스티유니타스
 - 웰트
 - 딜리셔스
+- 위버스컴퍼니
 
 ### [RxLifecycle](https://github.com/trello/RxLifecycle)
 - PRND Company
@@ -378,6 +397,7 @@
 - Medibloc
 - 에스티유니타스
 - 웰트
+- 위버스컴퍼니
 
 ### [Twillio](https://www.twilio.com/docs/voice/voip-sdk/android)
 - 에스티유니타스
