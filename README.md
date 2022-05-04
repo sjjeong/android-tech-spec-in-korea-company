@@ -1,5 +1,5 @@
 # 회사의 안드로이드 기술 스펙을 알려주세요!!
-한국에서 안드로이드 앱을 개발하는 회사의 기술 스펙을 아카이브 합니다.  
+한국에서 안드로이드 앱을 개발하는 회사의 기술 스펙을 아카이브 합니다.
 - 회사에서 사용하는 기술을 공개하고 정보를 공유하기 위해서 만들었습니다.
 - 입사희망자는 입사하기 전에 회사에서 사용되는 기술이 어떤 것들이 있는지 미리 알 수 있습니다.
 - 회사를 추가하고 싶은 분은 PR을 보내주세요
@@ -29,7 +29,7 @@
 |[중고나라](http://joonggonara.co/)|Kotlin,Java|MVP|[중고나라 채용](http://www.jobkorea.co.kr/Company/16151545/Info)|
 |[웰트](https://www.weltcorp.com)|Kotlin|MVP|[웰트 채용](https://www.wanted.co.kr/company/1258)|
 |[오일나우](https://www.oilnow.co.kr)|Kotlin|MVC|[오일나우 채용](https://www.notion.so/oilnow/Android-Kotlin-0b5e08d1c12e469097d04ff157f1df9b)|
-|[에이블리](https://www.oilnow.co.kr)|Kotlin|MVVM|[에이블리 채용](https://www.notion.so/ably2/9d7e5686e05548c99393310e6769847a)|
+|[에이블리](https://ably.team/)|Kotlin|Clean, MVVM|[에이블리 채용](https://ably.team/recruit?department=Engineering)|
 |[딜리셔스](https://www.dealicious.kr/)|Kotlin|MVC,MVVM|[딜리셔스 채용](https://www.wanted.co.kr/wd/18908)|
 |[위버스컴퍼니](https://weverse.co/)|Kotlin|Clean, MVP, MVVM|[위버스컴퍼니 채용](https://www.wanted.co.kr/wd/16934)|
 
@@ -156,6 +156,7 @@
 - 웰트
 - 딜리셔스
 - 위버스컴퍼니
+- 에이블리
 
 ### [Dagger](https://github.com/google/dagger)
 - 스푼라디오
@@ -177,9 +178,6 @@
 
 ### [Epoxy](https://github.com/airbnb/epoxy)
 - Medibloc
-
-### [Fresco](https://github.com/facebook/fresco)
-- 에이블리
 
 ### [Glide](https://github.com/bumptech/glide)
 - PRND Company
@@ -398,6 +396,7 @@
 - 에스티유니타스
 - 웰트
 - 위버스컴퍼니
+- 에이블리
 
 ### [Twillio](https://www.twilio.com/docs/voice/voip-sdk/android)
 - 에스티유니타스
