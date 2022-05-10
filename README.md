@@ -32,7 +32,7 @@
 |[에이블리](https://www.oilnow.co.kr)|Kotlin|MVVM|[에이블리 채용](https://www.notion.so/ably2/9d7e5686e05548c99393310e6769847a)|
 |[딜리셔스](https://www.dealicious.kr/)|Kotlin|MVC,MVVM|[딜리셔스 채용](https://www.wanted.co.kr/wd/18908)|
 |[위버스컴퍼니](https://weverse.co/)|Kotlin|Clean, MVP, MVVM|[위버스컴퍼니 채용](https://www.wanted.co.kr/wd/16934)|
-|[더가치플래닛](http://www.thegachee.com/)|Kotlin|Clean, MVP, MVVM|[더가치플래닛 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/38056575?Oem_Code=C1)|
+|[더가치플래닛](http://www.thegachee.com/)|Kotlin|MVVM|[더가치플래닛 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/38056575?Oem_Code=C1)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
