@@ -32,6 +32,7 @@
 |[에이블리](https://www.oilnow.co.kr)|Kotlin|MVVM|[에이블리 채용](https://www.notion.so/ably2/9d7e5686e05548c99393310e6769847a)|
 |[딜리셔스](https://www.dealicious.kr/)|Kotlin|MVC,MVVM|[딜리셔스 채용](https://www.wanted.co.kr/wd/18908)|
 |[위버스컴퍼니](https://weverse.co/)|Kotlin|Clean, MVP, MVVM|[위버스컴퍼니 채용](https://www.wanted.co.kr/wd/16934)|
+|[더가치플래닛](http://www.thegachee.com/)|Kotlin|Clean, MVP, MVVM|[더가치플래닛 채용](https://www.jobkorea.co.kr/Recruit/GI_Read/38056575?Oem_Code=C1)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -53,6 +54,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 더가치플래닛
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - PRND Company
@@ -70,6 +72,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 더가치플래닛
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -86,6 +89,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 더가치플래닛
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
@@ -112,6 +116,7 @@
 - 에스티유니타스
 - 웰트
 - 위버스컴퍼니
+- 더가치플래닛
 
 ### [AAC ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - PRND Company
@@ -130,6 +135,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 더가치플래닛
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -156,6 +162,7 @@
 - 웰트
 - 딜리셔스
 - 위버스컴퍼니
+- 더가치플래닛
 
 ### [Dagger](https://github.com/google/dagger)
 - 스푼라디오
@@ -204,6 +211,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 더가치플래닛
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -226,6 +234,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼
+- 더가치플래닛
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -285,6 +294,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 더가치플래닛
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -317,6 +327,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 더가치플래닛
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
