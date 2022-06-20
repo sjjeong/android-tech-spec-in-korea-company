@@ -32,6 +32,7 @@
 |[에이블리](https://www.oilnow.co.kr)|Kotlin|MVVM|[에이블리 채용](https://www.notion.so/ably2/9d7e5686e05548c99393310e6769847a)|
 |[딜리셔스](https://www.dealicious.kr/)|Kotlin|MVC,MVVM|[딜리셔스 채용](https://www.wanted.co.kr/wd/18908)|
 |[위버스컴퍼니](https://weverse.co/)|Kotlin|Clean, MVP, MVVM|[위버스컴퍼니 채용](https://www.wanted.co.kr/wd/16934)|
+|[와디즈](https://wadiz.kr/)|Kotlin|MVVM|[와디즈 채용](https://www.wanted.co.kr/wd/20086)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -53,6 +54,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - PRND Company
@@ -70,6 +72,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - PRND Company
@@ -86,12 +89,12 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
 - Medibloc
 - 위버스컴퍼니
-
 
 ### [AAC Paging](https://developer.android.com/topic/libraries/architecture/paging/)
 - 플리토
@@ -100,6 +103,7 @@
 - Medibloc
 - Coinone Transfer
 - 에스티유니타스
+- 와디즈
 
 ### [AAC Room](https://developer.android.com/topic/libraries/architecture/room)
 - 캐시워크
@@ -112,6 +116,7 @@
 - 에스티유니타스
 - 웰트
 - 위버스컴퍼니
+- 와디즈
 
 ### [AAC ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - PRND Company
@@ -130,6 +135,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 캐시워크
@@ -162,6 +168,7 @@
 - Coinone Transfer
 - 에스티유니타스
 - 에이블리
+- 와디즈
 
 ### [Duktape](https://github.com/square/duktape-android)
 - Coinone Transfer
@@ -174,6 +181,7 @@
 - Naver Z
 - 웰트
 - 위버스컴퍼니
+- 와디즈
 
 ### [Epoxy](https://github.com/airbnb/epoxy)
 - Medibloc
@@ -204,6 +212,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [Gson](https://github.com/google/gson)
 - PRND Company
@@ -254,11 +263,13 @@
 - 웰트
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [Moshi](https://github.com/square/moshi)
 - 띵스플로우
 - 에스티유니타스
 - 위버스컴퍼니
+- 와디즈
 
 ### [MvRx](https://github.com/airbnb/MvRx)
 - Medibloc
@@ -285,6 +296,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -317,6 +329,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - PRND Company
@@ -338,6 +351,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - PRND Company
@@ -359,6 +373,7 @@
 - Naver Z
 - 에이블리
 - 위버스컴퍼니
+- 와디즈
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
@@ -370,6 +385,7 @@
 - 웰트
 - 딜리셔스
 - 위버스컴퍼니
+- 와디즈
 
 ### [RxLifecycle](https://github.com/trello/RxLifecycle)
 - PRND Company
@@ -398,6 +414,7 @@
 - 에스티유니타스
 - 웰트
 - 위버스컴퍼니
+- 와디즈
 
 ### [Twillio](https://www.twilio.com/docs/voice/voip-sdk/android)
 - 에스티유니타스
