@@ -33,6 +33,7 @@
 |[딜리셔스](https://www.dealicious.kr/)|Kotlin|MVC,MVVM|[딜리셔스 채용](https://www.wanted.co.kr/wd/18908)|
 |[위버스컴퍼니](https://weverse.co/)|Kotlin|Clean, MVP, MVVM|[위버스컴퍼니 채용](https://www.wanted.co.kr/wd/16934)|
 |[와디즈](https://wadiz.kr/)|Kotlin|MVVM|[와디즈 채용](https://www.wanted.co.kr/wd/20086)|
+|[더가치플래닛](http://www.thegachee.com/)|Kotlin|MVVM|[더가치플래닛 채용](https://thegachee.notion.site/1f71f591f2374ddf8665611c16f0b940)|
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -55,6 +56,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 더가치플래닛
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - 헤이딜러
@@ -73,6 +75,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 더가치플래닛
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - 헤이딜러
@@ -90,6 +93,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 더가치플래닛
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
@@ -117,6 +121,7 @@
 - 웰트
 - 위버스컴퍼니
 - 와디즈
+- 더가치플래닛
 
 ### [AAC ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - 헤이딜러
@@ -136,6 +141,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 더가치플래닛
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 헤이딜러
@@ -163,6 +169,7 @@
 - 웰트
 - 딜리셔스
 - 위버스컴퍼니
+- 더가치플래닛
 - 에이블리
 
 ### [Dagger](https://github.com/google/dagger)
@@ -213,6 +220,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 더가치플래닛
 
 ### [Gson](https://github.com/google/gson)
 - 헤이딜러
@@ -235,6 +243,7 @@
 - 에이블리
 - 딜리셔스
 - 위버스컴퍼
+- 더가치플래닛
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -297,6 +306,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 더가치플래닛
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -330,6 +340,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 더가치플래닛
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - 캐시워크
