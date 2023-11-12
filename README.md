@@ -34,6 +34,7 @@
 |[위버스컴퍼니](https://weverse.co/)|Kotlin|Clean, MVP, MVVM|[위버스컴퍼니 채용](https://www.wanted.co.kr/wd/16934)|
 |[와디즈](https://wadiz.kr/)|Kotlin|MVVM|[와디즈 채용](https://www.wanted.co.kr/wd/20086)|
 |[더가치플래닛](http://www.thegachee.com/)|Kotlin|MVVM|[더가치플래닛 채용](https://thegachee.notion.site/1f71f591f2374ddf8665611c16f0b940)|
+|[룩핀](https://www.lookpin.co.kr/home)|Kotlin|Clean, MVP, MVVM||
 
 ## 라이브러리
 라이브러리는 A-Z 순서대로 해주세요.
@@ -57,6 +58,7 @@
 - 위버스컴퍼니
 - 와디즈
 - 더가치플래닛
+- 룩핀
 
 ### [AAC Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle)
 - 헤이딜러
@@ -76,6 +78,7 @@
 - 위버스컴퍼니
 - 와디즈
 - 더가치플래닛
+- 룩핀
 
 ### [AAC LiveData](https://developer.android.com/topic/libraries/architecture/livedata)
 - 헤이딜러
@@ -94,6 +97,7 @@
 - 위버스컴퍼니
 - 와디즈
 - 더가치플래닛
+- 룩핀
 
 ### [AAC Navigation](https://developer.android.com/guide/navigation/)
 - 플리토
@@ -122,6 +126,7 @@
 - 위버스컴퍼니
 - 와디즈
 - 더가치플래닛
+- 룩핀
 
 ### [AAC ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - 헤이딜러
@@ -142,6 +147,7 @@
 - 위버스컴퍼니
 - 와디즈
 - 더가치플래닛
+- 룩핀
 
 ### [AAC WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
 - 헤이딜러
@@ -178,6 +184,7 @@
 - 에스티유니타스
 - 에이블리
 - 와디즈
+- 룩핀
 
 ### [Duktape](https://github.com/square/duktape-android)
 - Coinone Transfer
@@ -221,6 +228,7 @@
 - 위버스컴퍼니
 - 와디즈
 - 더가치플래닛
+- 룩핀
 
 ### [Gson](https://github.com/google/gson)
 - 헤이딜러
@@ -244,6 +252,7 @@
 - 딜리셔스
 - 위버스컴퍼
 - 더가치플래닛
+- 룩핀
 
 ### [Kodein](https://github.com/Kodein-Framework/Kodein-DI)
 - 플리토
@@ -273,6 +282,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 룩핀
 
 ### [Moshi](https://github.com/square/moshi)
 - 띵스플로우
@@ -307,6 +317,7 @@
 - 위버스컴퍼니
 - 와디즈
 - 더가치플래닛
+- 룩핀
 
 ### [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar)
 - PRND Company
@@ -341,6 +352,7 @@
 - 위버스컴퍼니
 - 와디즈
 - 더가치플래닛
+- 룩핀
 
 ### [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - 캐시워크
@@ -362,6 +374,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 룩핀
 
 ### [RxJava](https://github.com/ReactiveX/RxJava)
 - 헤이딜러
@@ -384,6 +397,7 @@
 - 에이블리
 - 위버스컴퍼니
 - 와디즈
+- 룩핀
 
 ### [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 - SweetTracker
@@ -396,6 +410,7 @@
 - 딜리셔스
 - 위버스컴퍼니
 - 와디즈
+- 룩핀
 
 ### [RxLifecycle](https://github.com/trello/RxLifecycle)
 - 빙글
@@ -425,11 +440,10 @@
 - 위버스컴퍼니
 - 에이블리
 - 와디즈
+- 룩핀
 
 ### [Twillio](https://www.twilio.com/docs/voice/voip-sdk/android)
 - 에스티유니타스
 
 ### [Volley](https://github.com/google/volley)
 - 위드이노베이션
-
-
